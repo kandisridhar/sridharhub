@@ -2,4 +2,8 @@ sample2 files...
 
 for updated request
 
+
+for merge conflict purpose
+
 master for merge request
+
